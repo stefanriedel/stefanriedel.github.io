@@ -11,7 +11,7 @@
       "address": "",
       "postalCode": "80809",
       "city": "Munich",
-      "countryCode": "DE",
+      "countryCode": "GER",
       "region": "Germany"
     },
     "profiles": [
@@ -92,7 +92,7 @@
     },
     {
       "institution": "Technical University Munich, Munich, GER",
-      "area": "Computer Science, Informatics",
+      "area": "Informatics",
       "studyType": "B.Sc.",
       "startDate": "2008-10",
       "endDate": "2011-09",
@@ -120,7 +120,35 @@
         "task execution-flow modeling, logging & analysis (Rafcon)",
         "GPU Cluster configuration and maintenance (SLURM)"
       ]
-    }
+    },
+    {
+      "company": "RoboCup Logistics League-Team 2011, 2012, 2014, Technical University Munich",
+      "position": "RoboCup Software/Systems Developer",
+      "website": "https://www.bbunits.de/",
+      "startDate": "2011-01",
+      "endDate": "2014-07",
+      "summary": "Co-founder and core developer within a small student team (3-7 people) participating at RoboCup Logistics League:",
+      "highlights": [
+        "overall system and control architecture (with core team members)",
+        "LSPB trajectory generation using quadratic splines",
+        "PD trajectory control and shared-memory actuator communication",
+        "context-dependend camera configuration over Video4Linux-interface"
+      ]
+    },
+    {
+      "company": "various institutes",
+      "position": "Student Research Assistant",
+      "website": "",
+      "startDate": "2010",
+      "endDate": "2014",
+      "summary": "Total of 23 months at TUM, JHU (USA) and DLR on various topics:",
+      "highlights": [
+        "2014, DLR, Master-Thesis Research: point-cloud perception, feature-based object pose estimation, recursive probabilistic orientation estimation, next-best-view planning",
+        "2013, CIRL, JHU (USA): point-cloud-based sequential scene parsing with physical constraints (ROS, C++, PCL, Bullet Physics), integration of perception into a human-robot collaborative system (Python, VTK)",
+        "2011, DLR, Bachelor-Thesis: numerics of Kalman filtering (UD-factorization), automated noise covariance optimization",
+        "2010, TUM: hardware/software co-design for an Altera FPGA by means of an automated code generation approach using Matlab's Simulink"
+      ]
+    },
   ],
   "awards": [
     {
