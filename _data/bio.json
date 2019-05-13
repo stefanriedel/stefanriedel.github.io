@@ -71,8 +71,8 @@
   ],
   "education": [
     {
-      "institution": "TU Munich, Munich, GER",
-      "area": "Computer Science, Informatics",
+      "institution": "Technical University Munich, Munich, GER",
+      "area": "Informatics",
       "studyType": "M.Sc.",
       "startDate": "2011-10",
       "endDate": "2014-11",
@@ -91,39 +91,33 @@
       ]
     },
     {
-      "institution": "TU Munich, Munich, GER",
+      "institution": "Technical University Munich, Munich, GER",
       "area": "Computer Science, Informatics",
       "studyType": "B.Sc.",
       "startDate": "2008-10",
       "endDate": "2011-09",
-      "gpa": "1.1",
+      "gpa": "1.5",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "German Aerospace Center (DLR), Institute for Robotics and Mechatronics",
+      "position": "Research Engineer (Robotics)",
+      "website": "https://www.dlr.de/rm/desktopdefault.aspx/tabid-8017",
+      "startDate": "2015-05",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Research and software engineering work on various topics, projects and platforms:",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "software modules for mobile manipulators (robotic platforms: AIMM, LRU)",
+        "data collection for machine learning (robotic platforms: AIMM, C-Runner, David)",
+        "contributions to six conference and journal papers",
+        "robotic system integration (ROS, internal middlerware)",
+        "sensor data management & visualization (PyData ecosystem)",
+        "machine learning for robot dynamics (shallow, deep, incremental; Scikit, Tensorflow, PyTorch)",
+        "task-level environment modeling (Neo4J, OGM)",
+        "task execution-flow modeling, logging & analysis (Rafcon)"
       ]
     }
   ],
