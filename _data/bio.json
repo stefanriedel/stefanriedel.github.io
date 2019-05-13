@@ -71,12 +71,32 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "TU Munich, Munich, GER",
+      "area": "Computer Science, Informatics",
+      "studyType": "M.Sc.",
+      "startDate": "2011-10",
+      "endDate": "2014-11",
+      "gpa": "1.1",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Johns Hopkins University, Baltimore, USA",
+      "area": "Computer Science",
+      "studyType": "Study and Research Year",
+      "startDate": "2012-08",
+      "endDate": "2013-08",
+      "gpa": "-",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "TU Munich, Munich, GER",
+      "area": "Computer Science, Informatics",
+      "studyType": "B.Sc.",
+      "startDate": "2008-10",
+      "endDate": "2011-09",
+      "gpa": "1.1",
       "courses": [
       ]
     }
