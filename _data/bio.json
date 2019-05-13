@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Sebastian Riedel",
-    "label": "Research and Software Engineer (Robotics, ML)",
+    "label": "Senior Research and Software Engineer (Robotics, ML)",
     "picture": "https://sebastianriedel.github.io/images/photo.png",
     "email": "sebastian.riedel@ultimanet.de",
     "phone": "",
     "website": "https://sebastianriedel.github.io",
-    "summary": "I'm a computer scientist working in the fields of robotics, machine perception and machine learning.",
+    "summary": "Computer scientist by training. +6 years student- and professional-level experience as research and software engineer in the fields of robotics, machine perception and machine learning.",
     "location": {
       "address": "",
       "postalCode": "80809",
@@ -34,6 +34,11 @@
       ]
     },
     {
+      "name": "Cognition",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Machine Learning",
       "keywords": [
       ]
@@ -57,15 +62,30 @@
         "Python",
         "C++",
         "C",
-        "Matlab/Simulink"
+        "Bash",
+        "Matlab/Simulink",
+        "ROS",
+        "PCL",
+        "OpenCV",
+        "VTK",
+        "Tensorflow",
+        "PyTorch",
+        "Scikit-Learn",
+        "Pandas/Dask",
+        "Bokeh",
+        "Sympy",
+        "Eigen",
+        "Cython/PyBind11",
+        "CMake"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Ubuntu",
+        "Linux",
         "Git/GitHub",
+        "SLURM"
       ]
     }
   ],
