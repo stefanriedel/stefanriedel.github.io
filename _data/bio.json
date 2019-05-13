@@ -2,11 +2,11 @@
   "basics": {
     "name": "Sebastian Riedel",
     "label": "Research/Software Engineer (Robotics, ML)",
-    "picture": "https://techfolios.github.io/template/images/photo.png",
+    "picture": "https://sebastianriedel.github.io/images/photo.png",
     "email": "sebastian.riedel@ultimanet.de",
     "phone": "",
     "website": "https://sebastianriedel.github.io",
-    "summary": "I'm a computer scientist working in the fields of robotics and applied machine learning.",
+    "summary": "I'm a computer scientist working in the fields of robotics, machine perception and machine learning.",
     "location": {
       "address": "",
       "postalCode": "80809",
