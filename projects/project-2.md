@@ -1,25 +1,27 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/het_nn_thumb.png
+title: Heteroscedastic Drouput Neural Network
+permalink: projects/hetnn
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-05-14
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - Neural Networks
+  - Uncertainty Quantification
+  - PyTorch
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: Implementation of a neural network which gives estimates of its uncertainty via a learned, heteroscedastic model of uncertainty.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/het_nn.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+After reading [Yarin Gal's blog posts](https://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html) on using dropout as a way to obtain uncertainty estimates for neural networks, I did a quick-and-dirty 1D implementation of a particularly interesting variant he describes which learns a heteroscedastic model of uncertainty (or target noise).
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Heteroscedasticity (for the example data here) refers to the situation in which the observed variance/noise of the target variable (y) varies with respect to the input variable (x), in contrast to being constant (homoscedasticity).
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+The example model fit clearly shows that the model is able to express higher uncertainty about its prediction in regions where data is more noisy and while predicting low uncertainty where data is less noisy.
+
+Implementation was done in PyTorch.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/SebastianRiedel/oneforall/tree/master/heteroscedastic_dropout_nn"><i class="large github icon"></i>on Github</a>
