@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Sebastian Riedel",
-    "label": "Senior Research and Software Engineer (Robotics, ML)",
+    "label": "Research and Software Engineer (Robotics, ML)",
     "picture": "https://sebastianriedel.github.io/images/photo.png",
     "email": "sebastian.riedel@ultimanet.de",
     "phone": "",
     "website": "https://sebastianriedel.github.io",
-    "summary": "Computer scientist by training. +6 years student- and professional-level experience as research and software engineer in the fields of robotics, machine perception and machine learning.",
+    "summary": "Computer scientist by training. +6 years student- and professional-level experience as research and software engineer in robotics, machine perception and machine learning.",
     "location": {
       "address": "",
       "postalCode": "80809",
