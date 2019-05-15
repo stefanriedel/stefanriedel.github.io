@@ -26,4 +26,5 @@ When working with real sensor measurements, heteroscedastic observation noise is
 
 <hr>
 **Technology Stack**: Python, PyTorch
+
 **Source:** <a href="https://github.com/SebastianRiedel/oneforall/tree/master/heteroscedastic_dropout_nn"><i class="large github icon"></i>on Github</a>
