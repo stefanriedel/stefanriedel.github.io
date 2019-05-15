@@ -5,7 +5,7 @@ image: images/het_nn_thumb.png
 title: Heteroscedastic Dropout Neural Network
 permalink: projects/hetnn
 # All dates must be YYYY-MM-DD format!
-date: 2019-05-14
+date: 2019-04-12
 labels:
   - Neural Networks
   - Uncertainty Quantification
