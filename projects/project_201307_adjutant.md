@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/adjutant/robot_play.png
-title: Adjutant: A framework for Flexible Human-Machine Collaborative Systems
+title: Adjutant - A framework for Flexible Human-Machine Collaborative Systems
 permalink: projects/adjutant
 # All dates must be YYYY-MM-DD format!
 date: 2013-07-01
@@ -10,7 +10,7 @@ labels:
   - Robotics
   - Point-Cloud Processing
   - ROS
-summary: Adjutant as a software framework in ROS which models human-robot systems via sets of robot capabilities that can be specialized to specific tasks, and collaborative behaviors which relate these capabilities to specific user interfaces or interaction paradigms.
+summary: Adjutant is a software framework in ROS which models human-robot collaborative systems via sets of robot capabilities that can be specialized to specific tasks, and collaborative behaviors which relate these capabilities to specific user interfaces or interaction paradigms.
 ---
 
 <div class="ui small rounded images">
