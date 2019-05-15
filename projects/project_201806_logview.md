@@ -19,7 +19,7 @@ summary: A viewer application I developed for integrated analysis of logged task
 
 The goal if this project was to bring together log data of our high-level task-/state-machine with the continuosly logged data of the sensors of our mobile manipulation robot [AIMM](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-11409/#gallery/29194).
 
-My responsibilties includes:
+My responsibilities included:
 - setting up and automating the continuous logging of all involved data streams on the robotic platform
 - data pre-processing pipeline into suitable formats for querying/analysis
 - interactive web viewer for displaying data streams for selected actions
