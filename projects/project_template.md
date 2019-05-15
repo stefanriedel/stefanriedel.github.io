@@ -24,8 +24,9 @@ This should be a one or two sentence introduction to what the project is about a
 - bullet two
 - bullet three
 
-### References, Further Material
-[1] bullet one
-[2] bullet two
+### Technology Stack
+Python, Dask, C++
 
-**Technology Stack:** Python, Dask, C++
+### References, Further Material
+- [1] bullet one
+- [2] bullet two
