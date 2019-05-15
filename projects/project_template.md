@@ -14,7 +14,7 @@ summary: Text here.
 ---
 
 <a href="https://raw.githubusercontent.com/SebastianRiedel/sebastianriedel.github.io/master/images/logview/logview.png" class="ui large right floated rounded image">
-  <img src="../images/logview/logview.png">
+  <img src="../images/logview/logview_small.jpg">
 </a>
 
 This should be a one or two sentence introduction to what the project is about and what the goal was.
