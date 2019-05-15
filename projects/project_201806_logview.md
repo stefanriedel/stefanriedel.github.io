@@ -13,7 +13,7 @@ labels:
 summary: A viewer application I developed for integrated analysis of logged task-execution data with logged sensor data for our mobile manipulation platform.
 ---
 
-<a href="https://raw.githubusercontent.com/SebastianRiedel/sebastianriedel.github.io/master/images/logview/logview.png" class="ui medium image">
+<a href="https://raw.githubusercontent.com/SebastianRiedel/sebastianriedel.github.io/master/images/logview/logview.png" class="ui large right floated rounded image">
   <img src="../images/logview/logview.png">
 </a>
 
