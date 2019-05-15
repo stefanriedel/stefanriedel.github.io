@@ -4,6 +4,7 @@ type: project
 image: images/logview/logview_thumb.png
 title: Template
 permalink: projects/template
+draft: True
 # All dates must be YYYY-MM-DD format!
 date: 2010-01-01
 labels:
