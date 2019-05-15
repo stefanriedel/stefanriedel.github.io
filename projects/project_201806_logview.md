@@ -17,11 +17,14 @@ summary: A viewer application I developed for integrated analysis of logged task
   <img src="../images/logview/logview_small.jpg">
 </a>
 
-The goal if this project was to bring together log data of our high-level task-/state-machine with the continuosly logged data of the sensors of our mobile manipulation robot [AIMM](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-11409/#gallery/29194).
+The goal if this project was to bring together log data of our high-level task-/state-machine with the continuosly logged data of the sensors of our mobile manipulation robot [AIMM](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-11409/#gallery/29194). The results were presented at the Automatica Fair 2018.
 
-My responsibilities included:
+### Responsibilities
 - setting up and automating the continuous logging of all involved data streams on the robotic platform
 - data pre-processing pipeline into suitable formats for querying/analysis
 - interactive web viewer for displaying data streams for selected actions
 
-This work was done at DLR and presented at the Automatica Fair 2018.
+<hr>
+**Technology Stack:** Python, Pandas/Dask, HDF5, Bokeh, Datashader, ROS
+
+**Work Affiliation:** German Aerospace Center (DLR)
