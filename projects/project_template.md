@@ -17,7 +17,7 @@ summary: Text here.
   <img src="../images/logview/logview_small.jpg">
 </a>
 
-This should be a one or two sentence introduction to what the project is about and what the goal was. A bit more would be good for better formatting and that the next headline is full width.
+This should be a one or two sentence introduction to what the project is about and what the goal was. A bit more would be good for better formatting and that the next headline is full width. I can even add a third sentence so which explain why this is important or what I gained from this project in terms of lessons learned or what I found interesting about it.
 
 ### Accomplishments, Highlights, Responsibilities
 - bullet one
