@@ -4,7 +4,7 @@ type: project
 image: images/logview/logview_thumb.png
 title: Template
 permalink: projects/template
-draft: True
+# draft: True
 # All dates must be YYYY-MM-DD format!
 date: 2010-01-01
 labels:
@@ -29,5 +29,7 @@ This should be a one or two sentence introduction to what the project is about a
 Python, Dask, C++
 
 ### References, Further Material
-- [1] bullet one
+- [1] <a href="https://ieeexplore.ieee.org/abstract/document/6942739">Guerin, Kelleher R., Sebastian D. Riedel, Jonathan Bohren, and Gregory D. Hager. "Adjutant: A framework for flexible human-machine collaborative systems." In 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems, pp. 1392-1399. IEEE, 2014.</a>
 - [2] bullet two
+
+Source: <a href="https://github.com/SebastianRiedel/oneforall/tree/master/heteroscedastic_dropout_nn"><i class="large github icon"></i>on Github</a>
