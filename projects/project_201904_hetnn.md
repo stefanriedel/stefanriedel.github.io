@@ -24,6 +24,7 @@ The example model fit clearly shows that the model is able to express higher unc
 
 When working with real sensor measurements, heteroscedastic observation noise is a common "problem". For example, think of RGB-D cameras where the noise on the depth measurements is typically larger for measurements far away than close-by.
 
-Implementation was done in PyTorch.
+### Technology Stack
+Python, PyTorch
  
 Source: <a href="https://github.com/SebastianRiedel/oneforall/tree/master/heteroscedastic_dropout_nn"><i class="large github icon"></i>on Github</a>
