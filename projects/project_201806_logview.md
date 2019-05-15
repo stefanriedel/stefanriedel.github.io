@@ -14,7 +14,7 @@ summary: A viewer application I developed for integrated analysis of logged task
 ---
 
 <a href="https://raw.githubusercontent.com/SebastianRiedel/sebastianriedel.github.io/master/images/logview/logview.png" class="ui large right floated rounded image">
-  <img src="../images/logview/logview.png">
+  <img src="../images/logview/logview_small.jpg">
 </a>
 
 The goal if this project was to bring together log data of our high-level task-/state-machine with the continuosly logged data of the sensors of our mobile manipulation robot [AIMM](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-11409/#gallery/29194).
