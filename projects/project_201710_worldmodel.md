@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/template_thumb.jpg
-title: Robotic World Model using a Graph Database backend
+title: Robotic World Model using a Graph Database Backend
 permalink: projects/worldmodel
 # All dates must be YYYY-MM-DD format!
 date: 2017-10-01
