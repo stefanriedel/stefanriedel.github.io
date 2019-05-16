@@ -7,9 +7,10 @@ permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2018-06-18
 labels:
-  - done@DLR
   - Robotics
-  - Data Visualization
+  - Data Management
+  - PyData
+  - Visualization
 summary: A viewer application I developed for integrated analysis of logged task-execution data with logged sensor data for our mobile manipulation platform.
 ---
 
