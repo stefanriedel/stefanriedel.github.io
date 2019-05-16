@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/template_thumb.png
+image: images/template_thumb.jpg
 title: Template
 permalink: projects/template
 draft: True
