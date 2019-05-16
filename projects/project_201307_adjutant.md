@@ -7,7 +7,6 @@ permalink: projects/adjutant
 # All dates must be YYYY-MM-DD format!
 date: 2013-07-01
 labels:
-  - done@JHU-USA
   - Robotics
   - Point-Cloud Processing
   - ROS
