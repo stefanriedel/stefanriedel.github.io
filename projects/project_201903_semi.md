@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/template_thumb.jpg
+image: images/semi/thumb.jpg
 title: Semi-Parametric Learning with Bayesian NNs and GPs
 permalink: projects/semi
 # All dates must be YYYY-MM-DD format!

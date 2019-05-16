@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/template_thumb.jpg
+image: images/testbed/thumb.jpg
 title: Regression Testbed for Reproducible Research
 permalink: projects/testbed
 # All dates must be YYYY-MM-DD format!
