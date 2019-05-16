@@ -2,20 +2,21 @@
 layout: project
 type: project
 image: images/template_thumb.jpg
-title: Multi-view Orientation Estimation using Bingham Mixture Models
-permalink: projects/bingham
+title: Physically Plausible Scene Parsing using a Physics Engine and MCMC
+permalink: projects/sceneparsing
 # All dates must be YYYY-MM-DD format!
-date: 2015-04-01
+date: 2013-04-01
 labels:
   - Research
   - Point-Cloud Processing
-  - Machine Learning
-summary: Development and Evaluation of a point-cloud-feature based approach to recursive (multi-view), probabilistic 3d orientation estimation of objects using Bingham mixture models.
+summary: Development of a sequential scene parsing approach combining candidate detections of object detectors with a physics engine in order to assess the physical plausibility of detections.
 ---
 
 <!--<a href="https://raw.githubusercontent.com/SebastianRiedel/sebastianriedel.github.io/master/images/logview/logview.png" class="ui large right floated rounded image">
   <img src="../images/template_thumb.jpg">
 </a>
+
+ and therefore provide more robust scene perception
 
 This should be a one or two sentence introduction to what the project is about and what the goal was. A bit more would be good for better formatting and that the next headline is full width. I can even add a third sentence so which explain why this is important or what I gained from this project in terms of lessons learned or what I found interesting about it.
 
@@ -30,6 +31,6 @@ This should be a one or two sentence introduction to what the project is about a
 -->
 
 <hr>
-**Technology Stack:** C++, Python, Cython, PCL, Scikit-Learn, libbingham
+**Technology Stack:** C++, Eigen, ROS, Bullet Physics
 
-**Work Affiliation:** German Aerospace Center (DLR), Technical University Munich (TUM)
+**Work Affiliation:** Technical University Munich (TUM)
