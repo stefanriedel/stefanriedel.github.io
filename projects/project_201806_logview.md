@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/logview/logview_thumb.jpg
-title: LogView - Interactive Visualization of Robotic Log Data 
-permalink: projects/micromouse
+title: LogView - Interactive Visualization of Robotic Log Data
+permalink: projects/logview
 # All dates must be YYYY-MM-DD format!
 date: 2018-06-18
 labels:
