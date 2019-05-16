@@ -7,10 +7,9 @@ permalink: projects/hetnn
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-12
 labels:
-  - Neural Networks
+  - Research
   - Uncertainty Quantification
   - PyTorch
-  - GitHub
 summary: Implementation of a neural network which outputs an estimate of its predictive uncertainty while learning a heteroscedastic model of the target/observation noise.
 ---
 
