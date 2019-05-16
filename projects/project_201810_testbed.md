@@ -2,21 +2,20 @@
 layout: project
 type: project
 image: images/template_thumb.jpg
-title: Physically Plausible Scene Parsing using a Physics Engine and MCMC
-permalink: projects/sceneparsing
+title: Regression Testbed for Reproducible Research
+permalink: projects/testbed
 # All dates must be YYYY-MM-DD format!
-date: 2013-04-01
+date: 2018-10-01
 labels:
   - Research
-  - Point-Cloud Processing
-summary: Development of a sequential scene parsing approach combining candidate detections of object detectors with a physics engine in order to assess the physical plausibility of detections.
+  - Machine Learning
+  - Infrastructure
+summary: Development of an evaluation framework for machine learning algorithms for better experiment reproducability, solving e.g. data and model lineage issues.
 ---
 
 <!--<a href="https://raw.githubusercontent.com/SebastianRiedel/sebastianriedel.github.io/master/images/logview/logview.png" class="ui large right floated rounded image">
   <img src="../images/template_thumb.jpg">
 </a>
-
- and therefore provide more robust scene perception
 
 This should be a one or two sentence introduction to what the project is about and what the goal was. A bit more would be good for better formatting and that the next headline is full width. I can even add a third sentence so which explain why this is important or what I gained from this project in terms of lessons learned or what I found interesting about it.
 
@@ -31,6 +30,6 @@ This should be a one or two sentence introduction to what the project is about a
 -->
 
 <hr>
-**Technology Stack:** C++, Eigen, ROS, Bullet Physics
+**Technology Stack:** Python, HDF5, Pandas, SLURM, Dask Distributed, Scikit-Learn
 
-**Work Affiliation:** Johns Hopkins University (JHU)
+**Work Affiliation:** German Aerospace Center (DLR)

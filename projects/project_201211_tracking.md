@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/template_thumb.jpg
-title: Physically Plausible Scene Parsing using a Physics Engine and MCMC
-permalink: projects/sceneparsing
+title: Multi-Target Tracking-by-Detection based People Tracking
+permalink: projects/tracking
 # All dates must be YYYY-MM-DD format!
-date: 2013-04-01
+date: 2012-11-01
 labels:
-  - Research
-  - Point-Cloud Processing
-summary: Development of a sequential scene parsing approach combining candidate detections of object detectors with a physics engine in order to assess the physical plausibility of detections.
+  - Application
+  - Particle Filter
+summary: Development of a particle filter for tracking a variable number of people using an RGB-D camera.
 ---
 
 <!--<a href="https://raw.githubusercontent.com/SebastianRiedel/sebastianriedel.github.io/master/images/logview/logview.png" class="ui large right floated rounded image">
@@ -31,6 +31,6 @@ This should be a one or two sentence introduction to what the project is about a
 -->
 
 <hr>
-**Technology Stack:** C++, Eigen, ROS, Bullet Physics
+**Technology Stack:** C++, Eigen, VTK, OpenCV
 
 **Work Affiliation:** Johns Hopkins University (JHU)
