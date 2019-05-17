@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/spacebotcup/thumb.jpg
+image: images/spacebot/thumb.jpg
 title: SpaceBot Camp - Autonomous Sample-Return Mission
 permalink: projects/spacebot
 # All dates must be YYYY-MM-DD format!
