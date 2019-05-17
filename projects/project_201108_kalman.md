@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/template_thumb.jpg
+image: images/kalman/thumb.jpg
 title: Numerically Robust Implementation of an Extended Kalman Filter
 permalink: projects/kalman
 # All dates must be YYYY-MM-DD format!

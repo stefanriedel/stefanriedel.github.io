@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/template_thumb.jpg
+image: images/rafcon/thumb.jpg
 title: RAFCON: Modeling, Logging and Analysing Robotic Task Execution
 permalink: projects/rafcon
 # All dates must be YYYY-MM-DD format!

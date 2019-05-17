@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/template_thumb.jpg
+image: images/sceneparsing/thumb.jpg
 title: Physically Plausible Scene Parsing using a Physics Engine and MCMC
 permalink: projects/sceneparsing
 # All dates must be YYYY-MM-DD format!

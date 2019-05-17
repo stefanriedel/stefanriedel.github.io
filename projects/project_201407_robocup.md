@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/template_thumb.jpg
+image: images/robocup/thumb.jpg
 title: RoboCup Logistics League - Autonomous Robotic Warehouse Logistics
 permalink: projects/robocup
 # All dates must be YYYY-MM-DD format!

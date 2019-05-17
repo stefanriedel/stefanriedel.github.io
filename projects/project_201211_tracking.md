@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/template_thumb.jpg
+image: images/tracking/thumb.jpg
 title: Multi-Target Tracking-by-Detection based People Tracking
 permalink: projects/tracking
 # All dates must be YYYY-MM-DD format!

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/template_thumb.jpg
+image: images/bingham/thumb.jpg
 title: Multi-view Orientation Estimation using Bingham Mixture Models
 permalink: projects/bingham
 # All dates must be YYYY-MM-DD format!
