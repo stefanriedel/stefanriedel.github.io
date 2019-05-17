@@ -21,7 +21,7 @@ summary: Implementation and evaluation of different semi-parametric machine lear
 
 This should be a one or two sentence introduction to what the project is about and what the goal was. A bit more would be good for better formatting and that the next headline is full width. I can even add a third sentence so which explain why this is important or what I gained from this project in terms of lessons learned or what I found interesting about it.-->
 
-<img class="ui fluid bordered image" src="../images/semi/bar_plot_via_rmse.png">
+<img class="ui fluid bordered image" src="../images/semi/bar_plot_via_rmse.jpg">
 
 We evaluated semi-parametric Gaussian process regression (SPGP) and a novel model-based neural network architecture (BaMbAnn), and compared their modeling accuracy to a series of naive semi-parametric, parametric-only and non-parametric-only regression methods. The comparison has been carried out on three test scenarios, one involving a real test-bed and two involving simulated scenarios, with the most complex scenario targeting the modeling a simulated robot’s inverse dynamics model.
 
