@@ -30,4 +30,4 @@ summary: Adjutant is a software framework in ROS which models human-robot collab
 
 **Technology Stack:** Python, VTK, OpenCV, PyQt
 
-**Work Affilitation:** Johns Hopkins University (JHU), in collaboration Kelleher Guerin
+**Work Affilitation:** Johns Hopkins University (JHU), in collaboration with Kelleher Guerin

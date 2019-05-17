@@ -14,7 +14,7 @@ labels:
 summary: Implementation of a neural network which outputs an estimate of its predictive uncertainty while learning a heteroscedastic model of the target/observation noise.
 ---
 
-<img class="ui large right floated rounded image" src="../images/het_nn.png">
+<img class="ui large right floated bordered image" src="../images/het_nn.png">
 
 After reading [Yarin Gal's blog posts](https://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html) on using dropout as a way to obtain uncertainty estimates for neural networks, I did a quick-and-dirty 1D implementation of a particularly interesting variant he describes which learns a heteroscedastic model of uncertainty (or target noise).
 

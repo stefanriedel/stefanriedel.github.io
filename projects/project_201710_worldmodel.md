@@ -14,23 +14,19 @@ labels:
 summary: Development of a scene-graph based robotic world model component used for storing and querying information about task-relevant objects in the robot's environment.
 ---
 
-<!--<a href="https://raw.githubusercontent.com/SebastianRiedel/sebastianriedel.github.io/master/images/logview/logview.png" class="ui large right floated rounded image">
-  <img src="../images/template_thumb.jpg">
-</a>
+<img class="ui fluid bordered image" src="../images/worldmodel/world_neo4j.jpg">
 
-This should be a one or two sentence introduction to what the project is about and what the goal was. A bit more would be good for better formatting and that the next headline is full width. I can even add a third sentence so which explain why this is important or what I gained from this project in terms of lessons learned or what I found interesting about it.
+### Highlights
+- database backend based on Neo4J
+- entity schema and object-graph mapping (OGM) from stored entities in the database to Python class instances
+- pre-defined world model operations (e.g. add/remove objects, query relative transformation between arbitrary objects, load/dump graph from/to yaml files, ...)
+- pre-defined utility queries (e.g. object triples with certain properties) along-side full flexibility of CYPHER (Neo4j's graph query language)
+- interfaces to ROS
 
-### Accomplishments, Highlights, Responsibilities
-- bullet one
-- bullet two
-- bullet three
-
-### References, Further Material
-- [1] Guerin, Kelleher R., Sebastian D. Riedel, Jonathan Bohren, and Gregory D. Hager. <a href="https://ieeexplore.ieee.org/abstract/document/6942739">"Adjutant: A framework for flexible human-machine collaborative systems."</a> In 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems, pp. 1392-1399. IEEE, 2014.
-- [2] bullet two
--->
+### Further Material
+- [1] Lehner, Peter, Sebastian Brunner, Andreas Dömel, Heinrich Gmeiner, Sebastian Riedel, Bernhard Vodermayer, and Armin Wedler. <a href="https://ieeexplore.ieee.org/abstract/document/8396726/">"Mobile manipulation for planetary exploration."</a> In 2018 IEEE Aerospace Conference, pp. 1-11. IEEE, 2018.
 
 <hr>
-**Technology Stack:** Python, Neo4J, ROS
+**Technology Stack:** Python, Neo4J, neomodel, ROS
 
-**Work Affiliation:** German Aerospace Center (DLR)
+**Work Affiliation:** German Aerospace Center (DLR), in collaboration with Andreas Dömel, Sebastian Brunner, Peter Lehner

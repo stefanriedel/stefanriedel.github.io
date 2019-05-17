@@ -25,4 +25,4 @@ We evaluated semi-parametric Gaussian process regression (SPGP) and a novel mode
 <hr>
 **Technology Stack:** Python, Tensorflow, Scikit-Learn, C++, Limbo
 
-**Work Affiliation:** German Aerospace Center (DLR)
+**Work Affiliation:** German Aerospace Center (DLR), in collaboration with Florian Loeffl
