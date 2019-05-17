@@ -7,6 +7,8 @@ permalink: projects/bingham
 # All dates must be YYYY-MM-DD format!
 date: 2015-04-01
 labels:
+  - C++
+  - Python
   - Research
   - Point-Cloud Processing
   - Machine Learning

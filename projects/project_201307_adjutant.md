@@ -7,6 +7,7 @@ permalink: projects/adjutant
 # All dates must be YYYY-MM-DD format!
 date: 2013-07-01
 labels:
+  - Python
   - Robotics
   - Point-Cloud Processing
   - ROS

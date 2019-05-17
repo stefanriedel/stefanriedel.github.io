@@ -7,6 +7,7 @@ permalink: projects/worldmodel
 # All dates must be YYYY-MM-DD format!
 date: 2017-10-01
 labels:
+  - Python
   - Application
   - Infrastructure
   - ROS

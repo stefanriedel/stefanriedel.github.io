@@ -7,6 +7,7 @@ permalink: projects/testbed
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-01
 labels:
+  - Python
   - Research
   - Machine Learning
   - Infrastructure

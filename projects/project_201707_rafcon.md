@@ -7,6 +7,7 @@ permalink: projects/rafcon
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-01
 labels:
+  - Python
   - Application
   - Infrastructure
 summary: Extension of RAFCON with capabilities to label and log its control and data flow in order to analyse robotic task execution.

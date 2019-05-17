@@ -7,6 +7,7 @@ permalink: projects/sceneparsing
 # All dates must be YYYY-MM-DD format!
 date: 2013-04-01
 labels:
+  - C++
   - Research
   - Point-Cloud Processing
 summary: Development of a sequential scene parsing approach combining candidate detections of object detectors with a physics engine in order to assess the physical plausibility of detections.

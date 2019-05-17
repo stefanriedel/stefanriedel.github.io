@@ -5,8 +5,9 @@ image: images/robocup/thumb.jpg
 title: RoboCup Logistics League - Autonomous Robotic Warehouse Logistics
 permalink: projects/robocup
 # All dates must be YYYY-MM-DD format!
-date: 2015-04-01
+date: 2014-07-01
 labels:
+  - C++
   - System Architecture
   - Trajectory Control
   - Infrastructure

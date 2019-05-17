@@ -7,6 +7,7 @@ permalink: projects/spacebot
 # All dates must be YYYY-MM-DD format!
 date: 2015-11-01
 labels:
+  - Python
   - Application
   - Infrastructure
 summary: Participation at SpaceBot Camp, a robotic challenge where our rover autonomously explored, searched and returned objects in unknown, unstructred terrain.

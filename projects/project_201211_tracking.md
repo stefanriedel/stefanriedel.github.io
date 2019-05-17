@@ -7,6 +7,7 @@ permalink: projects/tracking
 # All dates must be YYYY-MM-DD format!
 date: 2012-11-01
 labels:
+  - C++
   - Application
   - Particle Filter
 summary: Development of a particle filter for tracking a variable number of people using an RGB-D camera.

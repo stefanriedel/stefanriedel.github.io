@@ -7,6 +7,7 @@ permalink: projects/logview
 # All dates must be YYYY-MM-DD format!
 date: 2018-06-18
 labels:
+  - Python
   - Robotics
   - Data Management
   - PyData

@@ -7,6 +7,8 @@ permalink: projects/semi
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-01
 labels:
+  - Python
+  - C++
   - Research
   - Machine Learning
   - Tensorflow
@@ -17,19 +19,16 @@ summary: Implementation and evaluation of different semi-parametric machine lear
   <img src="../images/template_thumb.jpg">
 </a>
 
-This should be a one or two sentence introduction to what the project is about and what the goal was. A bit more would be good for better formatting and that the next headline is full width. I can even add a third sentence so which explain why this is important or what I gained from this project in terms of lessons learned or what I found interesting about it.
+This should be a one or two sentence introduction to what the project is about and what the goal was. A bit more would be good for better formatting and that the next headline is full width. I can even add a third sentence so which explain why this is important or what I gained from this project in terms of lessons learned or what I found interesting about it.-->
 
-### Accomplishments, Highlights, Responsibilities
-- bullet one
-- bullet two
-- bullet three
+<img class="ui fluid bordered image" src="../images/semi/bar_plot_via_rmse.png">
 
-### References, Further Material
-- [1] Guerin, Kelleher R., Sebastian D. Riedel, Jonathan Bohren, and Gregory D. Hager. <a href="https://ieeexplore.ieee.org/abstract/document/6942739">"Adjutant: A framework for flexible human-machine collaborative systems."</a> In 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems, pp. 1392-1399. IEEE, 2014.
-- [2] bullet two
--->
+We evaluated semi-parametric Gaussian process regression (SPGP) and a novel model-based neural network architecture (BaMbAnn), and compared their modeling accuracy to a series of naive semi-parametric, parametric-only and non-parametric-only regression methods. The comparison has been carried out on three test scenarios, one involving a real test-bed and two involving simulated scenarios, with the most complex scenario targeting the modeling a simulated robot’s inverse dynamics model.
+
+### Further Material
+- [1] Technical Report: Sebastian Riedel, and Freek Stulp. <a href="https://drive.google.com/open?id=1Pij_EJf6DaEHA-z5PHdUaQy_io5_LHLi">"Comparing Semi-Parametric Model Learning Algorithms for Dynamic Model Estimation in Robotics"</a> [Draft]
 
 <hr>
-**Technology Stack:** Python, Tensorflow, Scikit-Learn
+**Technology Stack:** Python, Tensorflow, Scikit-Learn, C++, Limbo
 
 **Work Affiliation:** German Aerospace Center (DLR)

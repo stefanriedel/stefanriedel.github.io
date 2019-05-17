@@ -7,6 +7,7 @@ permalink: projects/kalman
 # All dates must be YYYY-MM-DD format!
 date: 2011-08-01
 labels:
+  - C++
   - Research
 summary: Implementation and evaluation of an extended Kalman filter using a numerically robust UD-factorization and computation in its update and prediction step.
 ---

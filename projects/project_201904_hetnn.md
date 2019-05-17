@@ -7,6 +7,7 @@ permalink: projects/hetnn
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-12
 labels:
+  - Python
   - Research
   - Uncertainty Quantification
   - PyTorch
