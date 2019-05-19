@@ -14,23 +14,32 @@ labels:
 summary: Participation (two-time winner, one 2nd place) at RoboCup Logistics League in 2011-2014, for which we developed a system of three collaborating robots solving material logistics in a warehouse scenario.
 ---
 
-<!--<a href="https://raw.githubusercontent.com/SebastianRiedel/sebastianriedel.github.io/master/images/logview/logview.png" class="ui large right floated rounded image">
-  <img src="../images/template_thumb.jpg">
-</a>
+<div class="ui embed" data-source="youtube" data-id="_iesqH6bNsY" ></div>
 
-This should be a one or two sentence introduction to what the project is about and what the goal was. A bit more would be good for better formatting and that the next headline is full width. I can even add a third sentence so which explain why this is important or what I gained from this project in terms of lessons learned or what I found interesting about it.
+### Overview
 
-### Accomplishments, Highlights, Responsibilities
-- bullet one
-- bullet two
-- bullet three
+The RoboCup Logistics League offers a competition within a simulated industrial environment. In order to solve the logistical tasks, all three robots not only have to operate autonomously in a flexible, effective and robust way on their own, they should also collaborate efficiently in order to maximize the overall outcome. To this end, we implemented a custom-made solution (no ROS) based on the Festo Robotino platform involving robot hardware modifications and a holistic software system architecture solving task planning and execution, multi-robot collaboration, visual perception, motion planning and execution, and visualization/monitoring tools for game and robot states.
 
-### References, Further Material
-- [1] Guerin, Kelleher R., Sebastian D. Riedel, Jonathan Bohren, and Gregory D. Hager. <a href="https://ieeexplore.ieee.org/abstract/document/6942739">"Adjutant: A framework for flexible human-machine collaborative systems."</a> In 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems, pp. 1392-1399. IEEE, 2014.
-- [2] bullet two
--->
+More details can be found in the publication linked below.
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/robocup/robot.jpg">
+  <img class="ui image" src="../images/robocup/gui.jpg">
+  <img class="ui image" src="../images/robocup/detection.jpg">
+  <img class="ui image" src="../images/robocup/traj.jpg">
+</div>
+
+### Responsibilities
+- overall system and control architecture (with core team members)
+- Linear-Segments-Parabolic-Blends (LSPB) trajectory generation
+- PD trajectory control and shared-memory communication to actuator control deamon
+- context-dependend camera configuration over Video4Linux-interface
+
+### Further Material
+- [1] Homepage: <a href="https://www.bbunits.de/">Bavarian Bending Units</a>
+- [2] Jentzsch, Sören, Sebastian Riedel, Sebastian Denz, and Sebastian Brunner. <a href="https://link.springer.com/chapter/10.1007/978-3-642-39250-4_5">"TUMsBendingUnits from TU Munich: RoboCup 2012 logistics league champion."</a> In Robot Soccer World Cup, pp. 48-58. Springer, Berlin, Heidelberg, 2012.
 
 <hr>
 **Technology Stack:** C++, Boost, Eigen, Video4Linux
 
-**Work Affiliation:** Technical University Munich (TUM)
+**Work Affiliation:** Technical University Munich (TUM), in collaboration with Sören Jentzsch, Peter Gschirr, Sebastian Brunner, Stefan Profanter, Sebastian Denz, Christian Ihrke, Sebastian Fischer and Ingmar Kessler
