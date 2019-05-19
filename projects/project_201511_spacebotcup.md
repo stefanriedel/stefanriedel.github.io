@@ -10,30 +10,20 @@ labels:
   - Python
   - Application
   - Infrastructure
-summary: Participation at SpaceBot Camp, a robotic challenge where our rover autonomously explored, searched and returned objects in unknown, unstructred terrain.
-
-
+summary: Participation at SpaceBot Camp, a robotic challenge where our rover autonomously explored, searched and returned objects in unknown, unstructered terrain.
 ---
 
-<!--<a href="https://raw.githubusercontent.com/SebastianRiedel/sebastianriedel.github.io/master/images/logview/logview.png" class="ui large right floated rounded image">
-  <img src="../images/template_thumb.jpg">
-</a>
+<div class="ui embed" data-source="youtube" data-id="wCTkSxcna8o" ></div>
 
-Infrastructure to monitor robot state and system health over a delayed and uni-directional communication link.
-
-This should be a one or two sentence introduction to what the project is about and what the goal was. A bit more would be good for better formatting and that the next headline is full width. I can even add a third sentence so which explain why this is important or what I gained from this project in terms of lessons learned or what I found interesting about it.
-
-### Accomplishments, Highlights, Responsibilities
-- bullet one
-- bullet two
-- bullet three
+### Responsibilities
+- plugin for on-board process-/component-manager to publish process- and system health state over uni-directional channel (UDP-multicast) in order to monitor the robot given the communication constraints by the competition rules
+- CLI-tools for displaying system status and interface for remote-control of the on-board process-/component-manager in order to (re)start/stop processes and subsystems
 
 ### References, Further Material
-- [1] Guerin, Kelleher R., Sebastian D. Riedel, Jonathan Bohren, and Gregory D. Hager. <a href="https://ieeexplore.ieee.org/abstract/document/6942739">"Adjutant: A framework for flexible human-machine collaborative systems."</a> In 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems, pp. 1392-1399. IEEE, 2014.
-- [2] bullet two
--->
+- [1] <a href="https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-3755/17612_read-44875/">Success of the RMExplores! Team at SpaceBot Camp 2015</a>
+- [2] Schuster, Martin J., Christoph Brand, Sebastian G. Brunner, Peter Lehner, Josef Reill, Sebastian Riedel, Tim Bodenmüller et al. <a href="https://ieeexplore.ieee.org/abstract/document/7781946">"The LRU rover for autonomous planetary exploration and its success in the SpaceBotCamp challenge."</a> In 2016 International Conference on Autonomous Robot Systems and Competitions (ICARSC), pp. 7-14. IEEE, 2016.
 
 <hr>
 **Technology Stack:** Python, Bash, UDP, Gtk
 
-**Work Affiliation:** German Aerospace Center (DLR)
+**Work Affiliation:** German Aerospace Center (DLR), in collaboration with the whole SpaceBot Camp team
