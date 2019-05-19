@@ -19,7 +19,7 @@ summary: Participation at SpaceBot Camp, a robotic challenge where our rover aut
 - plugin for on-board process-/component-manager to publish process- and system health state over uni-directional channel (UDP-multicast) in order to monitor the robot given the communication constraints by the competition rules
 - CLI-tools for displaying system status and interface for remote-control of the on-board process-/component-manager in order to (re)start/stop processes and subsystems
 
-### References, Further Material
+### Further Material
 - [1] <a href="https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-3755/17612_read-44875/">Success of the RMExplores! Team at SpaceBot Camp 2015</a>
 - [2] Schuster, Martin J., Christoph Brand, Sebastian G. Brunner, Peter Lehner, Josef Reill, Sebastian Riedel, Tim Bodenmüller et al. <a href="https://ieeexplore.ieee.org/abstract/document/7781946">"The LRU rover for autonomous planetary exploration and its success in the SpaceBotCamp challenge."</a> In 2016 International Conference on Autonomous Robot Systems and Competitions (ICARSC), pp. 7-14. IEEE, 2016.
 
