@@ -18,7 +18,7 @@ summary: Development of an evaluation framework for machine learning algorithms 
 
 ### Highlights
 - standardized interfaces for datasets (including meta-data) and algorithms
-- management of generated artefacts and configuration/parametrization options for full data/model lineage and traceability
+- management of generated artifacts and configuration/parametrization options for full data/model lineage and traceability
 - utility tools for analyzing and visualizing results along any experiment dimension (dataset variants, algorithm variants, parametrization variants, etc.)
 
 <hr>
