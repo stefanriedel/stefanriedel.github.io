@@ -15,7 +15,7 @@ labels:
 summary: Developed theory and control of mixed-order compact spherical loudspeaker arrays. Designed and built two new array prototypes.
 ---
 
-<img class="ui fluid bordered image" src="../images/design/arrays.png">
+<img class="ui fluid bordered image" src="../images/design/arrays_scaled.png">
 
 ### Abstract
 
