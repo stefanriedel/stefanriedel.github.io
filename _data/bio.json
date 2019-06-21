@@ -69,7 +69,7 @@
       "keywords": [
         "MacOS",
         "Linux",
-        "Git/GitHub",        
+        "Git/GitHub"        
       ]
     }
   ],
@@ -108,7 +108,7 @@
         "MagLS Binaural Decoder based on HRIRs with Distance Room Model",
         "DistanceEncoder VST plug-in development"        
       ]
-    },   
+    }   
   ],
   "awards": [
     {
