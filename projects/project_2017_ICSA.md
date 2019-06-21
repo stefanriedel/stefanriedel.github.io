@@ -20,6 +20,7 @@ summary: Part of a student team that won the silver award of the first ICSA 3D a
 ### Description
 - A 3D-Audio-Radioplay that lets the listener go through a portal and find itself in different abstract worlds of sound.
 This piece was created within the sound design course at the University of Music and Performing Arts Graz. It was a group effort, to which I contributed sound design as well as many hours of mixing and arranging with Michael Romanov and others in the IEM Studio. 
+The piece was awarded silver in the category "Audio Drama" at the 2017 ICSA 3D audio production competition. 
 
 <hr>
 **Technology Stack:** Reaper, AmbiX, Ambisonics, Sound Design
