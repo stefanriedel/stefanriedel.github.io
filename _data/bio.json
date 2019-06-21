@@ -54,33 +54,22 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Python",
+        "Matlab/Simulink",
         "C++",
         "C",
-        "Bash",
-        "Matlab/Simulink",
-        "ROS",
-        "PCL",
-        "OpenCV",
-        "VTK",
-        "Tensorflow",
-        "PyTorch",
-        "Scikit-Learn",
-        "Pandas/Dask",
-        "Bokeh",
-        "Sympy",
-        "Eigen",
-        "Cython/PyBind11",
-        "CMake"
+        "JUCE",
+        "XCode",
+        "Arduino",                
+        "3D Printing"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "MacOS",
         "Linux",
-        "Git/GitHub",
-        "SLURM"
+        "Git/GitHub",        
       ]
     }
   ],
