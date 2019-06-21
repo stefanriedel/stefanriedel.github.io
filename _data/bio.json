@@ -75,104 +75,66 @@
   ],
   "education": [
     {
-      "institution": "Technical University Munich, Munich, GER",
-      "area": "Informatics",
+      "institution": "Technical University Graz and University of Music and Perf. Arts Graz, Graz, AT",
+      "area": "Electrical and Audio Engineering",
       "studyType": "M.Sc.",
-      "startDate": "2011-10",
-      "endDate": "2014-11",
-      "gpa": "1.1",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Johns Hopkins University, Baltimore, USA",
-      "area": "Computer Science",
-      "studyType": "Study and Research Year",
-      "startDate": "2012-08",
-      "endDate": "2013-08",
-      "gpa": "-",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Technical University Munich, Munich, GER",
-      "area": "Informatics",
-      "studyType": "B.Sc.",
-      "startDate": "2008-10",
-      "endDate": "2011-09",
+      "startDate": "2017-19",
+      "endDate": "2019-06",
       "gpa": "1.5",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Technical University Graz and University of Music and Perf. Arts Graz, Graz, AT",
+      "area": "Electrical and Audio Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2013-16",
+      "endDate": "2016-11",
+      "gpa": "1.6",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "German Aerospace Center (DLR), Institute for Robotics and Mechatronics",
-      "position": "Research Engineer (Robotics)",
-      "website": "https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017",
-      "startDate": "2015-05",
-      "endDate": "Present",
-      "summary": "Research and software engineering work on various topics, projects and platforms:",
-      "highlights": [
-        "software modules for mobile manipulators (robotic platforms: AIMM, LRU)",
-        "data collection for machine learning (robotic platforms: AIMM, C-Runner, David)",
-        "contributions to six conference and journal papers",
-        "robotic system integration (ROS, internal middlerware)",
-        "sensor data management & visualization (PyData ecosystem)",
-        "machine learning for robot dynamics (shallow, deep, incremental; Scikit, Tensorflow, PyTorch)",
-        "task-level environment modeling (Neo4J, OGM)",
-        "task execution-flow modeling, logging & analysis (Rafcon)",
-        "GPU Cluster configuration and maintenance (SLURM)"
-      ]
-    },
-    {
-      "company": "RoboCup Logistics League-Team 2011, 2012, 2014, Technical University Munich",
-      "position": "RoboCup Software/Systems Developer",
-      "website": "https://www.bbunits.de/",
-      "startDate": "2011-01",
-      "endDate": "2014-07",
-      "summary": "Co-founder and core developer within a small student team (3-7 people) participating at RoboCup Logistics League:",
-      "highlights": [
-        "overall system and control architecture (with core team members)",
-        "LSPB trajectory generation using quadratic splines",
-        "PD trajectory control and shared-memory actuator communication",
-        "context-dependend camera configuration over Video4Linux-interface"
-      ]
-    },
-    {
-      "company": "various institutes",
-      "position": "Student Research Assistant",
+      "company": "Eurecat Barcelona, Technology Center of Catalonia",
+      "position": "Research Intern (3D Audio)",
       "website": "",
-      "startDate": "2010",
-      "endDate": "2014",
-      "summary": "Total of 23 months at TUM, JHU (USA) and DLR on various topics:",
+      "startDate": "2019-03",
+      "endDate": "2019-06",
+      "summary": "Developed distance-coded Ambisonics format and prototype decoders:",
       "highlights": [
-        "2014, DLR, Master-Thesis Research: point-cloud perception, feature-based object pose estimation, recursive probabilistic orientation estimation, next-best-view planning",
-        "2013, CIRL, JHU (USA): point-cloud-based sequential scene parsing with physical constraints (ROS, C++, PCL, Bullet Physics), integration of perception into a human-robot collaborative system (Python, VTK)",
-        "2011, DLR, Bachelor-Thesis: numerics of Kalman filtering (UD-factorization), automated noise covariance optimization",
-        "2010, TUM: hardware/software co-design for an Altera FPGA by means of an automated code generation approach using Matlab's Simulink"
+        "Binaural Decoder based on measured BRIRs including Near-Field Effect",
+        "MagLS Binaural Decoder based on HRIRs with Distance Room Model",
+        "DistanceEncoder VST plug-in development"        
       ]
-    },
+    },   
   ],
   "awards": [
     {
-      "title": "1st Place",
-      "date": "2011, 2012",
-      "awarder": "RoboCup Logistics League",
-      "summary": "(2014, 2nd place)."
+      "title": "ICMA Best Paper Award",
+      "date": "2019",
+      "awarder": "ICMA (International Comuter Music Association)",
+      "summary": "Best Paper Award at the ICMC (International Computer Music Conference) 2019 in NYC for the work 'Design and Control of Mixed-Order Spherical Loudspeaker Arrays'."
     },
     {
-      "title": "Deutschlandstipendium",
-      "date": "2012",
-      "awarder": "Technical University Munich and Giesecke & Devrient",
-      "summary": "Year-long, monthly stipend awarded based on academic performance criteria."
-    },
-    {
-      "title": "TUM PROMOS Stipend",
-      "date": "2012",
-      "awarder": "Technical University Munich",
-      "summary": "Travel grant I was awarded to support my exchange year at Johns Hopkins University, Baltimore, MD, USA."
+      "title": "Erasmus Grant",
+      "date": "2019",
+      "awarder": "Technical University Graz",
+      "summary": "Grant I was awarded to support my exchange to Eurecat Barcelona, Spain."
     } 
+    {
+      "title": "WKO Research Stipend",
+      "date": "2018",
+      "awarder": "Chamber of Economics Styria (WKO)",
+      "summary": "6 month stipend awarding economy-related master thesis research."
+    },
+    {
+      "title": "ICSA Student 3D Audio Competition",
+      "date": "2017",
+      "awarder": "VDT",
+      "summary": "Part of a production team that won the silver medal in the first 3D Audio competition in the category 'Audio Drama'."
+    },
   ],
   "references": [
     {
