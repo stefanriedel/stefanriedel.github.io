@@ -1,55 +1,50 @@
 {
   "basics": {
-    "name": "Sebastian Riedel",
-    "label": "Research and Software Engineer",
-    "picture": "https://sebastianriedel.github.io/images/photo.png",
-    "email": "sebastian.riedel@ultimanet.de",
+    "name": "Stefan Riedel",
+    "label": "Research and Software Engineer in Audio/Music Technology",
+    "picture": "https://stefanriedel.github.io/images/Riedel_Stefan copy.jpg",
+    "email": "stefan.mario.riedel@gmail.com",
     "phone": "",
-    "website": "https://sebastianriedel.github.io",
-    "summary": "Computer scientist by training. +6 years student- and professional-level experience as research and software engineer in robotics, machine perception and machine learning.",
+    "website": "https://stefanriedel.github.io",
+    "summary": "Researcher/Developer and music producer specialised in the emerging field of 3D Audio/Ambisonics. I have experience in system design and music production for hemispherical loudspeaker arrays, compact spherical loudspeaker arrays and Binaural 3D Audio.",
     "location": {
       "address": "",
-      "postalCode": "80809",
-      "city": "Munich",
-      "countryCode": "GER",
-      "region": "Germany"
+      "postalCode": "08001",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "region": "Spain"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "SebastianRiedel",
-        "url": "http://github.com/SebastianRiedel"
+        "username": "stefanriedel",
+        "url": "http://github.com/stefanriedel"
       },
       {
         "network": "linkedin",
-        "username": "riedelsebastian",
-        "url": "https://www.linkedin.com/in/riedelsebastian/"
+        "username": "Stefan Riedel",
+        "url": "https://www.linkedin.com/in/stefan-riedel-a1895b185/"
       }
     ]
   },
   "interests": [
     {
-      "name": "Robotics",
+      "name": "3D Audio",
       "keywords": [
       ]
     },
     {
-      "name": "Cognition",
+      "name": "Music Technology",
       "keywords": [
       ]
     },
     {
-      "name": "Machine Learning",
+      "name": "Signal Processing",
       "keywords": [
       ]
     },
     {
-      "name": "Artificial Intelligence",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Science",
+      "name": "Acoustics",
       "keywords": [
       ]
     }
