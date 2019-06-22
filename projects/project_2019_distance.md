@@ -5,7 +5,7 @@ image: images/distance/distance_spheres.jpg
 title: Distance-coded Ambisonics Formats and their Reproduction on Headphones and Loudspeaker Arrays
 permalink: projects/distance
 # All dates must be YYYY-MM-DD format!
-date: 2019-06-20
+date: 2019-06-12
 labels:
   - Ambisonics
   - Signal Processing
