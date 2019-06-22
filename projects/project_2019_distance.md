@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/design/distance_spheres.png
-title: Distance-coded Ambisonics formats and their Reproduction on Headphones and Loudspeakers Arrays
+image: images/design/distance_encoder.png
+title: Distance-coded Ambisonics formats and their Reproduction on Headphones and Loudspeaker Arrays
 permalink: projects/distance
 # All dates must be YYYY-MM-DD format!
 date: 2019-06-20
@@ -20,11 +20,13 @@ summary: Developed distance-coded Ambisonics and prototype Encoders and Decoders
 
 ### Abstract
 
-Compact spherical loudspeaker arrays are used to produce sound sculptures in electroacoustic music by modal beam- forming that orchestrates the wall reflections in the given space.Performance practice predominantly uses beams in the horizontal plane as they most effectively produce audi- tory objects via lateral reflections on unobstructed, close- enough walls and baffles. Revisiting mixed-order schemes, this contribution reveals ways to boost the horizontal di- rectivity of the dodecahedral loudspeaker from second to third order, of the icosahedral loudspeaker from third to fourth, and for similar directivity, new special mixed-order layouts are presented with significantly reduced number of transducers. Moreover, a two-band approach is tested with a lower band in which the modal beamforming is fea- sible with short crosstalk cancellation filters, and with a high-frequency band using AllRAD as amplitude panning approach to minimize spatial aliases and side lobes.
+
+This work introduces distance-coded Ambisonics formats and their reproduction on headphones and loudspeaker arrays.
+The first simple and practically motivated format proposes two Ambisonic signals, a far-field and a near-field signal, to which sounds are distributed according to a distance parameter at encoding stage. In binaural decoding this enables the application of near-field HRTFs with inherent binaural cues which cannot be applied at encoding stage, for example the frequency-dependent increase in interaural level differences compared to far-field HRTFs. Blending between two Ambisonic reverberation patterns (modeled or measured DRIR) is combined with a physically meaningful level attenuation to achieve a plausible distance effect that includes a change in the direct-to-reverberant sound energy ratio. Compatibility with loudspeaker arrays is given by summation of the two Ambisonic signals after introducing level differences and the two reverberation patterns to retain a relative distance effect.
+An efficient and more accurate way to render distance is to restrict the effect to the horizontal plane. Therefore, a second format that interprets negative elevation as the distance of a horizontal source is proposed. In binaural repro- duction, this format allows for a high spatial resolution in the precomputation of distance-dependent HRTFs and early reflections, applied at decoding stage. Moreover, this format could motivate future research on loudspeaker systems that employ horizontal sound field synthesis (rendering of near-field sources) combined with AllRAD for elevated sources.
 
 ### Further Material
-- [1] Stefan Riedel, Franz Zotter, Robert Hoeldrich. <a href="https://www.researchgate.net/publication/333132335_Design_and_Control_of_Mixed-Order_Spherical_Loudspeaker_Arrays">"Design and Control of Mixed-Order Spherical Loudspeaker Arrays."</a>  2019 ICMC (International Computer Music Conference) New York City.
-- [2] Stefan Riedel. Master-thesis: <a href="https://drive.google.com/open?id=1hyXaX3AxoZvnzQgYCSvq5RE_f2y24E8j">"Compact Spherical Loudspeaker Arrays: New Ideas on Filter and Layout Design"</a>
+- [1] Stefan Riedel. Project-thesis: <a href="https://drive.google.com/open?id=1otwnnFGl2lz8Vx7_zucjXst-aeqBGTEd">"Distance-coded Ambisonics Formats and their Reproduction on Headphones and Loudspeaker Arrays"</a>
 
 
 <hr>
