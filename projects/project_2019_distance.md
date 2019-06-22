@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/design/distance_encoder.png
+image: images/design/distance_spheres.jpg
 title: Distance-coded Ambisonics formats and their Reproduction on Headphones and Loudspeaker Arrays
 permalink: projects/distance
 # All dates must be YYYY-MM-DD format!
