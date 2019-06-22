@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Stefan Riedel",
-    "label": "Research and Software Engineer in Audio/Music Technology",
+    "label": "Researcher and Engineer in Music Technology",
     "picture": "https://stefanriedel.github.io/images/Riedel_Stefan copy.jpg",
     "email": "stefan.mario.riedel@gmail.com",
     "phone": "",
     "website": "https://stefanriedel.github.io",
-    "summary": "M.Sc. in Electrical and Audio Engineering. Researcher, developer and music producer specialised in the emerging field of 3D Audio/Ambisonics. I have experience in system design and music production for hemispherical loudspeaker arrays, compact spherical loudspeaker arrays and Binaural 3D Audio.",
+    "summary": "M.Sc. in Electrical and Audio Engineering. I have experience in system design and music production for hemispherical loudspeaker arrays, compact spherical loudspeaker arrays and Binaural 3D Audio.",
     "location": {
       "address": "",
       "postalCode": "08001",
