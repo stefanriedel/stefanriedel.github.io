@@ -108,7 +108,15 @@
         "MagLS Binaural Decoder based on HRIRs with Distance Room Model",
         "DistanceEncoder VST plug-in development"        
       ]
-    }   
+    },
+    {
+      "company": "Institute of Technical Informatics, University of Technology Graz",
+      "position": "Signal Processors Laboratory Tutor",
+      "website": "",
+      "startDate": "2018-04",
+      "endDate": "2018-06",
+      "summary": "Helped students implement Audio and Image Processing algorithms in C and Matlab on DSPs (FIR, Wavelet Transform, Cosine Transform, JPEG)."         
+    }      
   ],
   "awards": [
     {
