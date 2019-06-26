@@ -30,6 +30,7 @@ An efficient and more accurate way to render distance is to restrict the effect 
 
 ### Further Material
 - [1] Stefan Riedel. Project-thesis: <a href="https://drive.google.com/open?id=1otwnnFGl2lz8Vx7_zucjXst-aeqBGTEd">"Distance-coded Ambisonics Formats and their Reproduction on Headphones and Loudspeaker Arrays"</a>
+- [2] Binaural Audio Demos: <a href="https://soundcloud.com/stefan-mario-riedel-1/sets/ambisonic-binaural-near-field-demos">"Listen hear with your headphones."</a>
 
 
 <hr>
