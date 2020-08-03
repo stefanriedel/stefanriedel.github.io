@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: images/synth/synth_op.jpg
+image: images/lupstrument/bela.png
 title: HW/SW-Development of a Multichannel Looper Instrument
-permalink: projects/synth
+permalink: projects/lupstrument
 # All dates must be YYYY-MM-DD format!
 date: 2020-06-01
 labels:
-  - Hardware
+  - Hardware Dev
   - Bela
   - PureData
 summary: Developed a multichannel looper instrument that allows for various signal modifications. 
