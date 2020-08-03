@@ -106,7 +106,8 @@
       "highlights": [
         "Conceptual design of the synthesizer",
         "Audio Signal Processing ( Wavetable FFT pre-processing, Real-Time Wavetable Interpolation, Modulation Matrix, Audio FX )",
-        "Integration of the GUI and Design",
+        "Integration of the GUI Design and Functionality",
+        "Sound Design for Factory Presets",
         "Software Testing and Audio Quality"
       ]
     },
