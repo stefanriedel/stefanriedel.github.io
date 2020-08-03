@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/unity/unity.jpg
-title: Unity 360 controller for Ambisonics 3D Audio plug-ins
+title: Unity 360 controller for Ambisonics 3D Audio
 permalink: projects/unity
 # All dates must be YYYY-MM-DD format!
 date: 2020-08-02
