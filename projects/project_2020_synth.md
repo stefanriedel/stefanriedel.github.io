@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/synth/synth_op.jpg
-title: Wavetable Synthesizer for Music Software Product
+title: Development of a Wavetable Synthesizer for a Music Software Product
 permalink: projects/synth
 # All dates must be YYYY-MM-DD format!
 date: 2020-06-01
@@ -10,7 +10,7 @@ labels:
   - JUCE
   - Signal Processing
   - C++
-summary: Developed a wavetable synth with JUCE/C++ for a generative music software product.
+summary: Developed a wavetable synth in C++/JUCE for a generative music software called "Orb Producer Suite".
 ---
 
 
@@ -20,10 +20,10 @@ summary: Developed a wavetable synth with JUCE/C++ for a generative music softwa
 
 
 ### Description
-- Wavetable Synth.
+- The synth has two wavetable oscillators, a noise generator and a sub-frequency oscillator to generate input for the variable-state filters. Many parameters can be modulated by LFOs and Envelopes via the modulation matrix. Finally, the signal runs through a basic FX section, consiting of Overdrive, Delay and Reverb. 
 
 <hr>
-**Technology Stack:** C++, C, JUCE, Signal Processing
+**Technology Stack:** C++, C, JUCE, Signal Processing, GUI, Sound Design
 
 **Work Affiliation:** Hexachords SL, Barcelona, Spain
 
