@@ -10,6 +10,9 @@ labels:
   - JUCE
   - Signal Processing
   - C++
+  - C
+  - GUI
+  - Sound Design
 summary: Developed a wavetable synth in C++/JUCE for a generative music software called "Orb Producer Suite".
 ---
 
