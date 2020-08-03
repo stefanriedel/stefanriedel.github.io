@@ -5,7 +5,7 @@ image: images/lupstrument/bela.png
 title: HW/SW-Development of a Multichannel Looper Instrument
 permalink: projects/lupstrument
 # All dates must be YYYY-MM-DD format!
-date: 2020-06-01
+date: 2018-06-30
 labels:
   - Hardware Dev
   - Bela

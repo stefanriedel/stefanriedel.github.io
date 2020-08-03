@@ -23,7 +23,8 @@ summary: Developed a wavetable synth in C++/JUCE for a generative music software
 
 
 ### Description
-- The sound clip is a theme that I created with the Orb Producer Suite software. It features the synth and its sounds without further processing.
+- The sound clip is a theme that I created with the Orb Producer Suite software. It features the synth and its sounds without further processing. 
+
 The synth has two wavetable oscillators, a noise generator and a sub-frequency oscillator which output to the variable-state filters. A "Unison"-effect was implemented that creates a big sound by stereo-spreading duplicated and slightly detuned oscillators. Many parameters can be modulated by LFOs and Envelopes via the modulation matrix. Finally, the signal runs through a basic FX section, consisting of Overdrive, Delay and Reverb. 
 
 <hr>
