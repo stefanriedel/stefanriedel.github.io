@@ -97,6 +97,14 @@
   ],
   "work": [
     {
+      "company": "Hexachords S.L., Barcelona",
+      "position": "Audio Software / DSP Engineer",
+      "website": "",
+      "startDate": "2019-09",
+      "endDate": "2020-06",
+      "summary": "Implemented a Wavetable Synthesizer in JUCE/C++ as part of a music software product. Apart from the signal processing I was also responsible for parts of the conceptual design, integration of the GUI, software testing and ensuring overall audio quality and usability."
+    },
+    {
       "company": "Eurecat Barcelona, Technology Center of Catalonia",
       "position": "Research Intern (3D Audio)",
       "website": "",
@@ -106,7 +114,7 @@
       "highlights": [
         "Binaural Decoder based on measured BRIRs including Near-Field Effect",
         "MagLS Binaural Decoder based on HRIRs with Distance Room Model",
-        "DistanceEncoder VST plug-in development"        
+        "DistanceEncoder VST plug-in development"
       ]
     },
     {
@@ -115,8 +123,8 @@
       "website": "",
       "startDate": "2018-04",
       "endDate": "2018-06",
-      "summary": "Helped students implement Audio and Image Processing algorithms in C and Matlab on DSPs (FIR, Wavelet Transform, Cosine Transform, JPEG)."         
-    }      
+      "summary": "Helped students implement Audio and Image Processing algorithms in C and Matlab on DSPs (FIR, Wavelet Transform, Cosine Transform, JPEG)."
+    }
   ],
   "awards": [
     {
